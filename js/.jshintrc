@@ -1,0 +1,22 @@
+{
+  "node"     : true,
+  "asi"      : true,
+  "browser"  : true,
+  "eqeqeq"   : false,
+  "eqnull"   : true,
+  "es3"      : true,
+  "expr"     : true,
+  "evil"     : true,
+  "jquery"   : true,
+  "latedef"  : true,
+  "laxbreak" : true,
+  "nonbsp"   : true,
+  "strict"   : true,
+  "undef"    : true,
+  "sub"      : true,
+  "unused"   : true,
+  "globals": {
+    "Bootstrap": true,
+    "Tooltip": true
+  }
+}

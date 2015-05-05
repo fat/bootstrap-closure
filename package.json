@@ -1,0 +1,31 @@
+{
+  "name": "BootstrapClosure",
+  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web. But with closure :P",
+  "version": "0.0.0",
+  "homepage": "http://getbootstrap.com",
+  "author": "@fat",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twbs/bootstrap.git"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/twbs/bootstrap/blob/master/LICENSE"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-closure-tools": "^0.9.8",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-qunit": "^0.7.0",
+    "grunt-jscs": "^1.8.0",
+    "superstartup-closure-compiler": "^0.1.7"
+  },
+  "engines": {
+    "node": ">=0.10.1"
+  }
+}
