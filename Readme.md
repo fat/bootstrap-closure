@@ -1,7 +1,7 @@
 Bootstrap JS + Closure Compiler
 -------------------------------
 
-This was an prototype largely written during Winter Vacation 2014.
+This was a prototype largely written during Winter Vacation 2014.
 
 Goals: 
 
